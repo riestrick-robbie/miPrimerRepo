@@ -25,3 +25,4 @@ Versión del proyecto: [p. ej., 1.0.0]
 
 Información adicional
 Cualquier otra información relevante.
+.
