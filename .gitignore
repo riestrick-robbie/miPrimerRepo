@@ -428,3 +428,6 @@ FodyWeavers.xsd
 *.msm
 *.msp
 *.sln
+
+#elimina este archivo de conexion
+appsettings.json
