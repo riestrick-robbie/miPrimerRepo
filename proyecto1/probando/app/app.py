@@ -1,3 +1,3 @@
-from tercerRepo import saludo
+from tercerRepo import saludar
 
-print(saludo("hailey"))
+print(saludar("hailey"))
